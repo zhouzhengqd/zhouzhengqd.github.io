@@ -16,12 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 🏝️ About Me
+Hello! I'm currently pursuing my Ph.D. in Electronic and Information Engineering at Beihang University. Previously, I earned my Master's in Electronic Engineering from Shandong University, where I completed my thesis on AI security under the guidance of Prof. Ju Liu. My Bachelor's in Mechanical Engineering and Automation from Qingdao University of Science and Technology rounds out my interdisciplinary skill set.
 
-Welcome to my academic homepage! I am currently pursuing my Ph.D. in the School of Electronic and Information Engineering at Beihang University, under the guidance of Prof. Hongbo Zhao and Prof. Wenquan Feng. My research focuses on adversarial examples, dataset distillation, and federated learning, aimed at enhancing the robustness and security of machine learning models in various applications.
-
-Prior to my Ph.D. journal, I completed my Master's degree in Electronic Engineering at Shandong University, where I gained expertise in signal processing and machine learning techniques. Under the supervision of Prof. Ju Liu, my Master's thesis investigated the vulnerabilities of machine learning models and strategies to mitigate adversarial attacks. Additionally, I hold a Bachelor's degree in Mechanical Engineering and Automation from Qingdao University of Science and Technology. This interdisciplinary background has equipped me with a diverse skill set and a holistic understanding of engineering principles. 
-
-
+My research focuses on adversarial examples, dataset distillation, and federated learning, aimed at enhancing the robustness and security of machine learning models in various applications.
 <!-- My research interest lies in exploring the latent properties of neural networks and their connection with the mechanisms of the brain in the future. I aim to investigate the properties from three aspects: *AI Security & Privacy*, *Data-efficient Machine Learning* and *Distributed Machine Learning*.
 I have published two papers with total <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
