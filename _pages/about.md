@@ -35,7 +35,7 @@ Thank you for visiting my homepage, and I invite you to explore my research inte
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2022</div><img src='images/C1_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adversarial Examples Are Closely Relevant to Neural Network Models - A Preliminary Experiment Explore](https://drive.google.com/file/d/13g5iiALfia-3GPvHTwQ00IOHaKrvrMF4/view)
@@ -46,7 +46,7 @@ Thank you for visiting my homepage, and I invite you to explore my research inte
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/M1_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World](https://arxiv.org/pdf/2312.17431.pdf)

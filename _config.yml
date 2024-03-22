@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheng Zhou"
-description              : "Ph.D. Student"
+description              : "Beihang University"
 repository               : "https://github.com/zhouzhengqd"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zheng Zhou"
   avatar           : "images/ZhengZhou.png"
-  bio              : "Beihang University"
+  bio              : "Ph.D. Student"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
