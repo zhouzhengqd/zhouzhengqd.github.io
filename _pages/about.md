@@ -17,42 +17,61 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Welcome to my academic homepage! I am currently pursuing my Ph.D. in the School of Electronic and Information Engineering at Beihang University, under the guidance of Prof. Hongbo Zhao and Prof. Wenquan Feng. My research focuses on adversarial examples, dataset distillation, and federated learning, aimed at enhancing the robustness and security of machine learning models in various applications.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Prior to my Ph.D. journal, I completed my Master's degree in Electronic Engineering at Shandong University, where I gained expertise in signal processing and machine learning techniques. Under the supervision of Prof. Ju Liu, my Master's thesis investigated the vulnerabilities of machine learning models and strategies to mitigate adversarial attacks. Additionally, I hold a Bachelor's degree in Mechanical Engineering and Automation from Qingdao University of Science and Technology. This interdisciplinary background has equipped me with a diverse skill set and a holistic understanding of engineering principles. 
+
+In addition to my academic and professional endeavors, I am passionate about contributing to the academic community and fostering collaboration among researchers. I actively participate in academic conferences and workshops, where I present my research findings and engage in discussions with fellow scholars. I believe that interdisciplinary collaboration and knowledge exchange are essential for driving innovation and addressing complex challenges in the field of machine learning and artificial intelligence.
+
+Thank you for visiting my homepage, and I invite you to explore my research interests, publications, and professional achievements. Feel free to contact me if you have any inquiries or opportunities for collaboration. I look forward to connecting with you!
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09*: &nbsp;🎉🎉 I am fortunated to join to the BUAA under supervision of Prof. Hongbo Zhao and Prof. Wenquan Feng. 
+- *2023.06*: &nbsp;🎉🎉 I completed my master's defend and obtained the M.Eng degree. 
+- *2022.06*: &nbsp;🎉🎉 One first-authored paper is accepted by ICSI 2022 (Oral). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Adversarial Examples Are Closely Relevant to Neural Network Models - A Preliminary Experiment Explore](https://drive.google.com/file/d/13g5iiALfia-3GPvHTwQ00IOHaKrvrMF4/view)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zheng Zhou**, Ju Liu and Yanyang Han
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World](https://arxiv.org/pdf/2312.17431.pdf)
+
+**Zheng Zhou**, Hongbo Zhao, Ju Liu, Qiaosheng Zhang, Liwei Geng, Shuchang Lyu, Wenquan Feng
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10* The Thirteenth International Conference on Swarm Intelligence, ICSI -- Oral. 
+- *2023.09* ASCEND Competition for Re-ID, -- Silver Award
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
+- *2023.06 - Now *, Ph.D. in Electronic Engineering, Beihang University (BUAA), Beijing, China, Advisor: Prof. Hongbo Zhao \& Prof. Wenquan Feng.
+- *2020.09 - 2023.06*, M.Eng. in Electronic Engineering, Shandong University (SDU), Qingdao, China, Advisor: Prof. Ju Liu. 
+- *2018.09 - 2020.10*, Visiting Student in Electronic Information Engineering, Technical University of Ilmenau (TU Ilmenau), Thuerigen, Germany.
+- *2016.09 - 2018.09*, B.Eng. in Mechanical Engineering and Automation, Qingdao University of Science and Technology (QUST), Qingdao, China.
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2020.09 - 2023.06*, Embeded Software Engineer, [Haier Group Corporation](https://www.haier.com/global/), Open Innovation Platform \& GE Appliance Development Devision, China.
