@@ -21,8 +21,9 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. in the School 
 
 Prior to my Ph.D. journal, I completed my Master's degree in Electronic Engineering at Shandong University, where I gained expertise in signal processing and machine learning techniques. Under the supervision of Prof. Ju Liu, my Master's thesis investigated the vulnerabilities of machine learning models and strategies to mitigate adversarial attacks. Additionally, I hold a Bachelor's degree in Mechanical Engineering and Automation from Qingdao University of Science and Technology. This interdisciplinary background has equipped me with a diverse skill set and a holistic understanding of engineering principles. 
 
-My research interest lies in exploring the latent properties of neural networks and their connection with the mechanisms of the brain in the future. I aim to investigate the properties from three aspects: *AI Security & Privacy*, *Data-efficient Machine Learning* and *Distributed Machine Learning*.
-I have published two papers with total <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+<!-- My research interest lies in exploring the latent properties of neural networks and their connection with the mechanisms of the brain in the future. I aim to investigate the properties from three aspects: *AI Security & Privacy*, *Data-efficient Machine Learning* and *Distributed Machine Learning*.
+I have published two papers with total <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
