@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheng Zhou"
-description              : "Ph.D. student at BUAA"
+description              : "Ph.D. Student"
 repository               : "https://github.com/zhouzhengqd"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zheng Zhou"
   avatar           : "images/ZhengZhou.png"
-  bio              : "Ph.D. student at BUAA"
+  bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=L5o4LTcAAAAJ"
   email            : "zhengzhou@buaa.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : zhouzhengqd# e.g., "github username"
+  github           : "zhouzhengqd"
   google_plus      :
   keybase          :
   instagram        :
