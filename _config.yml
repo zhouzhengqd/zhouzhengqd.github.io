@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheng Zhou"
-description              : "Beihang University"
+description              : "Ph.D. Student at Beihang University"
 repository               : "https://github.com/zhouzhengqd"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zheng Zhou"
   avatar           : "images/ZhengZhou.png"
-  bio              : "Ph.D. Student"
+  bio              : "Science is a way of thinking much more than it is a body of knowledge."   — Carl Sagan  
   location         : "Beijing, China"
   employer         :
   pubmed           : 
