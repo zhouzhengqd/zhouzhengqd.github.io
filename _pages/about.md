@@ -19,11 +19,7 @@ redirect_from:
 # 🏝️ About Me
 Hello! I'm currently pursuing my Ph.D. in Electronic and Information Engineering at Beihang University. Previously, I earned my Master's in Electronic Engineering from Shandong University, where I completed my thesis on AI security under the guidance of Prof. Ju Liu. My Bachelor's in Mechanical Engineering and Automation from Qingdao University of Science and Technology rounds out my interdisciplinary skill set.
 
-My research focuses on adversarial examples, dataset distillation, and federated learning, aimed at enhancing the robustness and security of machine learning models in various applications. My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-
-<!-- I have published three papers with total <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+My research focuses on adversarial examples, dataset distillation, and federated learning, aimed at enhancing the robustness and security of machine learning models in various applications. I have published three papers with total <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'>google scholar citations <strong><span id='total_cit'>26000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 You can find my resume [here](../files/cv_Dyaln.pdf).
 <!-- My research interest lies in exploring the latent properties of neural networks and their connection with the mechanisms of the brain in the future. I aim to investigate the properties from three aspects: *AI Security & Privacy*, *Data-efficient Machine Learning* and *Distributed Machine Learning*.
@@ -43,7 +39,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Zhou**, Hongbo Zhao, Ju Liu, Guangliang Cheng, Xiangtai Li, Shuchang Lyu, Wenquan Feng, Qi Zhao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&sortby=pubdate&citation_for_view=L5o4LTcAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&sortby=pubdate&citation_for_view=L5o4LTcAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
 </div>
 
@@ -54,7 +50,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Zhou**, Hongbo Zhao, Ju Liu, Qiaosheng Zhang, Liwei Geng, Shuchang Lyu, Wenquan Feng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:9yKSN-GCB0IC'></span></strong>
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2022</div><img src='images/C1_fig.png' alt="sym" width="100%"></div></div>
@@ -64,7 +60,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Zhou**, Ju Liu and Yanyang Han
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:u5HHmVD_uO8C'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
