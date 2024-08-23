@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🏝️ About Me
-Hello! I'm currently pursuing my Ph.D. in Electronic and Information Engineering at Beihang University. Previously, I earned my Master's in Electronic Engineering from Shandong University, where I completed my thesis on AI security under the guidance of Prof. Ju Liu. My Bachelor's in Mechanical Engineering and Automation from Qingdao University of Science and Technology rounds out my interdisciplinary skill set.
+Hello! I’m currently pursuing a Ph.D. in Electronic Engineering at Beihang University (BUAA). I earned my Master’s degree in Electronic Engineering from Shandong University (SDU), where I specialized in AI security under the guidance of Prof. Ju Liu. My academic foundation was built with a Bachelor's degree in Mechanical Engineering and Automation from Qingdao University of Science and Technology (QUST), which provided me with a solid interdisciplinary base for my research.
 
-My research focuses on adversarial examples, dataset distillation, and federated learning, aimed at enhancing the robustness and security of machine learning models in various applications. 
+My research is centered on exploring the latent properties of neural networks and their connections to brain mechanisms. My goal is to enhance the **sustainability**, **reliability**, and **efficiency** of machine learning. To achieve this, I focus on two main areas:
+* **Robustness:** Improving model robustness by addressing **adversarial examples** and other security challenges.
+* **Efficiency:** Enhancing learning efficiency through techniques like **dataset distillation** to optimize data usage.
 <!-- I have published three papers with total <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'>google scholar citations <strong><span id='total_cit'>26000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-You can find my Curriculum Vitae [here](../files/cv_Dyaln.pdf).
+You can find my **Curriculum Vitae** [here](../files/cv_Dyaln.pdf).
 <!-- My research interest lies in exploring the latent properties of neural networks and their connection with the mechanisms of the brain in the future. I aim to investigate the properties from three aspects: *AI Security & Privacy*, *Data-efficient Machine Learning* and *Distributed Machine Learning*.
 I have published two papers with total <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=en&tzom=-480&user=L5o4LTcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -33,18 +35,18 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 - *2022.06*: &nbsp;🎉🎉 One first-authored paper is accepted by ICSI 2022 (Oral). 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/M2_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/M2_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BACON: Bayesian Optimal Condensation Framework for Dataset Distillation](https://arxiv.org/abs/2406.01112.pdf)
 
-**Zheng Zhou**, Hongbo Zhao, Ju Liu, Guangliang Cheng, Xiangtai Li, Shuchang Lyu, Wenquan Feng, Qi Zhao
+**Zheng Zhou**, Hongbo Zhao, Guangliang Cheng, Xiangtai Li, Shuchang Lyu, Wenquan Feng, Qi Zhao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&sortby=pubdate&citation_for_view=L5o4LTcAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/M1_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/M1_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World](https://arxiv.org/pdf/2312.17431.pdf)
@@ -73,7 +75,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 # 📖 Educations
 - *2023.06 - Now*, Ph.D. in Electronic Engineering, Beihang University (BUAA), Beijing, China, Advisor: Prof. Hongbo Zhao & Prof. Wenquan Feng.
 - *2020.09 - 2023.06*, M.Eng. in Electronic Engineering, Shandong University (SDU), Qingdao, China, Advisor: Prof. Ju Liu. 
-- *2016.10 - 2018.10*, Visiting Student in Electronic Information Engineering, Technical University of Ilmenau (TU Ilmenau), Thuerigen, Germany.
+- *2016.10 - 2018.10*, Visiting Student in Electronic Engineering, Technical University of Ilmenau (TU Ilmenau), Thuerigen, Germany.
 - *2012.06 - 2016.09*, B.Eng. in Mechanical Engineering and Automation, Qingdao University of Science and Technology (QUST), Qingdao, China.
 
 
