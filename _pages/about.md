@@ -78,6 +78,13 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 - *2016.10 - 2018.10*, Visiting Student in Electronic Engineering, Technical University of Ilmenau (TU Ilmenau), Thuerigen, Germany.
 - *2012.06 - 2016.09*, B.Eng. in Mechanical Engineering and Automation, Qingdao University of Science and Technology (QUST), Qingdao, China.
 
+# 🌟 Academic Service
+## Peer Review
+I contribute to the academic community by reviewing papers for various prestigious journals and conferences. My reviewing experience includes:
+- NeurIPS 2024
+- ICLR 2025
+- Knowledge-Based Systems (KBS)
+- IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 
 # 💻 Work Experience
 - *2018.10 - 2023.06*, Embeded Software Engineer, [Haier Group Corporation](https://www.haier.com/global/), Open Innovation Platform & GE Appliance Development Devision, China.

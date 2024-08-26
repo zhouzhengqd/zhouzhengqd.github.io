@@ -18,5 +18,8 @@ main:
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
+  - title: "Academic Service"
+    url: "/#-academic service"
+
   - title: "Work Experience"
     url: "/#-work experience"
