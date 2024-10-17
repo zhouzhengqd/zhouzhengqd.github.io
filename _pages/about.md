@@ -83,6 +83,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 I contribute to the academic community by reviewing papers for various prestigious journals and conferences. My reviewing experience includes:
 - NeurIPS 2024
 - ICLR 2025
+- AISTATS 2025
 - Knowledge-Based Systems (KBS)
 - IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 
