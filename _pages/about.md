@@ -40,7 +40,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 - *2022.06*: &nbsp;📚📚 One first-authored paper accepted by ICSI 2022 (Oral). -->
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/M3_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/M3_fig.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/pdf/2411.09265)
@@ -50,7 +50,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 [**Project**](https://beard-leaderboard.github.io/) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/M2_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/M2_fig.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BACON: Bayesian Optimal Condensation Framework for Dataset Distillation](https://arxiv.org/pdf/2406.01112)
