@@ -30,7 +30,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🔥🔥 Check out our recent work on the benchmark for evaluating adversarial robustness in Dataset Distillation, **BEARD**: [Paper](https://arxiv.org/pdf/2406.01112), [Code](https://github.com/zhouzhengqd/BEARD), [Leaderboard](https://beard-leaderboard.github.io/).
+- *2024.11*: &nbsp;🔥🔥 Check out our recent work on the benchmark for evaluating adversarial robustness in Dataset Distillation, **BEARD**: [Paper](https://arxiv.org/pdf/2411.09265), [Code](https://github.com/zhouzhengqd/BEARD), [Leaderboard](https://beard-leaderboard.github.io/).
 - *2024.10*: &nbsp;📝📝 Honored to be invited as a reviewer for AISTATS 2025.
 - *2024.08*: &nbsp;📝📝 Honored to be invited as a reviewer for ICLR 2025.
 - *2024.06*: &nbsp;🔥🔥 Check out our recent work on Dataset Distillation, **BACON**: [Paper](https://arxiv.org/pdf/2406.01112), [Code](https://github.com/zhouzhengqd/BACON).
@@ -47,7 +47,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Zhou**, Wenquan Feng, Shuchang Lyu, Guangliang Cheng, Xiaowei Huang,  Qi Zhao
 
-[**Project**](https://beard-leaderboard.github.io/) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Website**](https://beard-leaderboard.github.io/) [**Code**](https://github.com/zhouzhengqd/BEARD) [**Paper**](https://arxiv.org/pdf/2411.09265)<strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/M2_fig.pdf' alt="sym" width="100%"></div></div>
@@ -57,7 +57,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Zhou**, Hongbo Zhao, Guangliang Cheng, Xiangtai Li, Shuchang Lyu, Wenquan Feng, Qi Zhao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&sortby=pubdate&citation_for_view=L5o4LTcAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Code**](https://github.com/zhouzhengqd/BACON) [**Paper**](https://arxiv.org/pdf/2406.01112)<strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
 </div>
 
@@ -68,7 +68,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Zhou**, Hongbo Zhao, Ju Liu, Qiaosheng Zhang, Liwei Geng, Shuchang Lyu, Wenquan Feng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:9yKSN-GCB0IC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:9yKSN-GCB0IC) [**Paper**](https://arxiv.org/pdf/2312.17431) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:9yKSN-GCB0IC'></span></strong>
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2022</div><img src='images/C1_fig.png' alt="sym" width="100%"></div></div>
@@ -78,7 +78,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Zhou**, Ju Liu and Yanyang Han
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:u5HHmVD_uO8C) [**Paper**](https://drive.google.com/file/d/13g5iiALfia-3GPvHTwQ00IOHaKrvrMF4/view)<strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:u5HHmVD_uO8C'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
