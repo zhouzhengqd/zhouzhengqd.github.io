@@ -30,15 +30,30 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 I am fortunated to join to the BUAA under supervision of Prof. Hongbo Zhao and Prof. Wenquan Feng. 
-- *2023.06*: &nbsp;🎉🎉 I completed my master's defend and obtained the M.Eng degree. 
-- *2022.06*: &nbsp;🎉🎉 One first-authored paper is accepted by ICSI 2022 (Oral). 
+- *2024.11*: &nbsp;🔥🔥 Check out our recent work on the benchmark for evaluating adversarial robustness in Dataset Distillation, **BEARD**: [Paper](https://arxiv.org/pdf/2406.01112), [Code](https://github.com/zhouzhengqd/BEARD), [Leaderboard](https://beard-leaderboard.github.io/).
+- *2024.10*: &nbsp;📝📝 Honored to be invited as a reviewer for AISTATS 2025.
+- *2024.08*: &nbsp;📝📝 Honored to be invited as a reviewer for ICLR 2025.
+- *2024.06*: &nbsp;🔥🔥 Check out our recent work on Dataset Distillation, **BACON**: [Paper](https://arxiv.org/pdf/2406.01112), [Code](https://github.com/zhouzhengqd/BACON).
+- *2024.05*: &nbsp;📝📝 Honored to be invited as a reviewer for NeurIPS 2024.
+- *2023.09*: &nbsp;🎓🎓 I am fortunate to join Beihang university under the supervision of Prof. Qi Zhao and Prof. Wenquan Feng.
+<!-- - *2023.06*: &nbsp;🏅🏅 Successfully defended my master's thesis and obtained my M.Eng degree.
+- *2022.06*: &nbsp;📚📚 One first-authored paper accepted by ICSI 2022 (Oral). -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/M3_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/pdf/2411.09265)
+
+**Zheng Zhou**, Wenquan Feng, Shuchang Lyu, Guangliang Cheng, Xiaowei Huang,  Qi Zhao
+
+[**Project**](https://beard-leaderboard.github.io/) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/M2_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BACON: Bayesian Optimal Condensation Framework for Dataset Distillation](https://arxiv.org/abs/2406.01112.pdf)
+[BACON: Bayesian Optimal Condensation Framework for Dataset Distillation](https://arxiv.org/pdf/2406.01112)
 
 **Zheng Zhou**, Hongbo Zhao, Guangliang Cheng, Xiangtai Li, Shuchang Lyu, Wenquan Feng, Qi Zhao
 
@@ -49,7 +64,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/M1_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World](https://arxiv.org/pdf/2312.17431.pdf)
+[MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World](https://arxiv.org/pdf/2312.17431)
 
 **Zheng Zhou**, Hongbo Zhao, Ju Liu, Qiaosheng Zhang, Liwei Geng, Shuchang Lyu, Wenquan Feng
 
