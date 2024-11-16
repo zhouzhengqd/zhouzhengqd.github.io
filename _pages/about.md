@@ -61,8 +61,8 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal</div><img src='images/M1_fig.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal</div><img src='images/M1_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World](https://arxiv.org/pdf/2312.17431)
 
@@ -72,8 +72,8 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2022</div><img src='images/C1_fig.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2022</div><img src='images/C1_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Adversarial Examples Are Closely Relevant to Neural Network Models - A Preliminary Experiment Explore](https://drive.google.com/file/d/13g5iiALfia-3GPvHTwQ00IOHaKrvrMF4/view)
 
