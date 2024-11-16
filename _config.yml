@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zheng Zhou"
+  name             : "Zheng Zhou (周正)"
   avatar           : "images/ZhengZhou.png"
   bio              : "Ph.D. Student at Beihang University" 
   location         : "Beijing, China"

@@ -88,7 +88,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 - *2023.09* ASCEND Competition for Re-ID, -- Silver Award
 
 # 📖 Educations
-- *2023.06 - Now*, Ph.D. in Electronic Engineering, Beihang University (BUAA), Beijing, China, Advisor: Prof. Hongbo Zhao & Prof. Wenquan Feng.
+- *2023.06 - Now*, Ph.D. in Electronic Engineering, Beihang University (BUAA), Beijing, China, Advisor: Prof. Qi Zhao & Prof. Wenquan Feng.
 - *2020.09 - 2023.06*, M.Eng. in Electronic Engineering, Shandong University (SDU), Qingdao, China, Advisor: Prof. Ju Liu. 
 - *2016.10 - 2018.10*, Visiting Student in Electronic Engineering, Technical University of Ilmenau (TU Ilmenau), Thuerigen, Germany.
 - *2012.06 - 2016.09*, B.Eng. in Mechanical Engineering and Automation, Qingdao University of Science and Technology (QUST), Qingdao, China.
