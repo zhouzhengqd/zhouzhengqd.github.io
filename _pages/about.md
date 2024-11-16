@@ -61,8 +61,8 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal</div><img src='images/M1_fig.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal</div><img src='images/M1_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 [MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World](https://arxiv.org/pdf/2312.17431)
 
@@ -71,8 +71,8 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:9yKSN-GCB0IC) [**Paper**](https://arxiv.org/pdf/2312.17431) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:9yKSN-GCB0IC'></span></strong>
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2022</div><img src='images/C1_fig.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2022</div><img src='images/C1_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 [Adversarial Examples Are Closely Relevant to Neural Network Models - A Preliminary Experiment Explore](https://drive.google.com/file/d/13g5iiALfia-3GPvHTwQ00IOHaKrvrMF4/view)
 
@@ -88,7 +88,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 - *2023.09* ASCEND Competition for Re-ID, -- Silver Award
 
 # 📖 Educations
-- *2023.06 - Now*, Ph.D. in Electronic Engineering, Beihang University (BUAA), Beijing, China, Advisor: Prof. Qi Zhao & Prof. Wenquan Feng.
+- *2023.09 - Now*, Ph.D. in Electronic Engineering, Beihang University (BUAA), Beijing, China, Advisor: Prof. Qi Zhao & Prof. Wenquan Feng.
 - *2020.09 - 2023.06*, M.Eng. in Electronic Engineering, Shandong University (SDU), Qingdao, China, Advisor: Prof. Ju Liu. 
 - *2016.10 - 2018.10*, Visiting Student in Electronic Engineering, Technical University of Ilmenau (TU Ilmenau), Thuerigen, Germany.
 - *2012.06 - 2016.09*, B.Eng. in Mechanical Engineering and Automation, Qingdao University of Science and Technology (QUST), Qingdao, China.
