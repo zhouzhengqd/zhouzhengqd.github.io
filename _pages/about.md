@@ -30,11 +30,12 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 
 # 🔥 News
+- *2024.12*: &nbsp;📝📝 Honored to be invited as a reviewer for **ICML 2025**.
 - *2024.11*: &nbsp;🔥🔥 Check out our recent work on the benchmark for evaluating adversarial robustness in Dataset Distillation, **BEARD**: [Paper](https://arxiv.org/pdf/2411.09265), [Code](https://github.com/zhouzhengqd/BEARD), [Leaderboard](https://beard-leaderboard.github.io/).
 - *2024.11*: &nbsp;🔥🔥 Honored to be selected as a **Top Reviewer** for **NeurIPS 2024**. Excited to contribute to the review process of this prestigious conference in the AI and ML community. The <u>official announcement</u> can be found [here](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers).
 - *2024.10*: &nbsp;📝📝 Honored to be invited as a reviewer for **AISTATS 2025**.
 - *2024.08*: &nbsp;📝📝 Honored to be invited as a reviewer for **ICLR 2025**.
-- *2024.06*: &nbsp;🔥🔥 Check out our recent work on Dataset Distillation, **BACON**: [Paper](https://arxiv.org/pdf/2406.01112), [Code](https://github.com/zhouzhengqd/BACON).
+- *2024.06*: &nbsp;🔥🔥 Check out our recent work on Dataset Distillation, **BACON**: [Project Page](https://zhouzhengqd.github.io/bacon.page/), [Paper](https://arxiv.org/pdf/2406.01112), [Code](https://github.com/zhouzhengqd/BACON).
 - *2024.05*: &nbsp;📝📝 Honored to be invited as a reviewer for **NeurIPS 2024**.
 - *2023.09*: &nbsp;🎓🎓 I am fortunate to join Beihang university under the supervision of Prof. Qi Zhao and Prof. Wenquan Feng.
 - *2023.06*: &nbsp;🏅🏅 Successfully defended my master's thesis and obtained my M.Eng degree.
@@ -48,7 +49,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Zhou**, Wenquan Feng, Shuchang Lyu, Guangliang Cheng, Xiaowei Huang,  Qi Zhao
 
-[**Website**](https://beard-leaderboard.github.io/) [**Code**](https://github.com/zhouzhengqd/BEARD) [**Paper**](https://arxiv.org/pdf/2411.09265)<strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Project Page**](https://beard-leaderboard.github.io/) [**Code**](https://github.com/zhouzhengqd/BEARD) [**Paper**](https://arxiv.org/pdf/2411.09265)<strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal</div><img src='images/M2_fig.png' alt="sym" width="100%"></div></div>
@@ -58,7 +59,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 **Zheng Zhou**, Hongbo Zhao, Guangliang Cheng, Xiangtai Li, Shuchang Lyu, Wenquan Feng, Qi Zhao
 
-[**Code**](https://github.com/zhouzhengqd/BACON) [**Paper**](https://arxiv.org/pdf/2406.01112)<strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Project Page**](https://zhouzhengqd.github.io/bacon.page/)[**Code**](https://github.com/zhouzhengqd/BACON) [**Paper**](https://arxiv.org/pdf/2406.01112)<strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
 </div>
 
@@ -101,8 +102,7 @@ I contribute to the academic community by reviewing papers for various prestigio
 - NeurIPS 2024
 - ICLR 2025
 - AISTATS 2025
-- Knowledge-Based Systems (KBS)
-- IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+- ICML 2025
 
 # 💻 Work Experience
 - *2018.10 - 2023.06*, Embeded Software Engineer, [Haier Group Corporation](https://www.haier.com/global/), Open Innovation Platform & GE Appliance Development Devision, China.
