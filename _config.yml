@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=L5o4LTcAAAAJ"
   email            : "zhengzhou@buaa.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  https://www.researchgate.net/profile/Zheng-Zhou-94 # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,15 +43,15 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/17/4932"
+  linkedin         : https://www.linkedin.com/in/zheng-zhou-81b829250/ # e.g., "linkedin username"
+  dblp             : "https://dblp.org/pid/17/4932-7.html"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1572-6854"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : https://x.com/zhouzhengqd
   vine             :
   weibo            :
   xing             :
