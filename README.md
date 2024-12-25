@@ -17,8 +17,8 @@ Zheng Zhou's Personal Homepage
 I’m **Zheng Zhou (Dylan)**, a Ph.D. candidate in **Electronic Engineering** at **Beihang University (BUAA)**. My research aims to advance machine learning by focusing on:
 
 ### 🔍 Research Interests:
-- **Robustness**: Improving model resilience against adversarial examples and enhancing security.
-- **Efficiency**: Boosting learning efficiency with innovative techniques such as dataset distillation.
+- 🛡️ **Robustness:** Strengthening model resilience against **adversarial examples**  and other security threats.
+- ⚡ **Efficiency:** Boosting learning efficiency with methods like **dataset distillation**, enabling smarter and more effective data utilization.
 
 I’m passionate about solving real-world problems with theoretical insights and practical tools.
 

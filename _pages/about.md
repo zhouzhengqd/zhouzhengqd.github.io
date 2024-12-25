@@ -23,7 +23,7 @@ Hello! I’m currently pursuing a Ph.D. in **Electronic Engineering** at **Beiha
 
 My research aims to advance the **sustainability**, **reliability**, and **efficiency** of machine learning systems. Specifically, I focus on two core areas:
 * 🛡️ **Robustness:** Strengthening model resilience against **adversarial examples**  and other security threats.
-* ⚡ **Efficiency:** oosting learning efficiency with methods like **dataset distillation**, enabling smarter and more effective data utilization.
+* ⚡ **Efficiency:** Boosting learning efficiency with methods like **dataset distillation**, enabling smarter and more effective data utilization.
 
 You can find my **Curriculum Vitae** [here](../files/cv_Dyaln.pdf).
 
@@ -41,9 +41,6 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 - **Aug 2024**: Invited as a reviewer for **ICLR 2025**.
 - **Jun 2024**: Preprin paper on **BACON**, a new framework for **dataset distillation**: [Project Page](https://zhouzhengqd.github.io/bacon.page/), [Paper](https://arxiv.org/pdf/2406.01112), [Code](https://github.com/zhouzhengqd/BACON).
 - **May 2024**: Invited as a reviewer for **NeurIPS 2024**.
-<!-- - **Sep 2023**: Joined **Beihang University** as a Ph.D. student under the supervision of Prof. Qi Zhao and Prof. Wenquan Feng.
-- **Jun 2023**: Successfully defended my Master's thesis and obtained my M.Eng degree.
-- **Jun 2022**: Published a first-authored paper at **ICSI 2022 (Oral)**. -->
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference</div><img src='images/M3_fig.png' alt="sym" width="100%"></div></div>
