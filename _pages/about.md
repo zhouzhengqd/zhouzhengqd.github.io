@@ -46,7 +46,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference</div><img src='images/M3_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/pdf/2411.09265)
+**[BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/pdf/2411.09265)**
 
 <span style="font-weight: bold; color: #0000FF;">Zheng Zhou</span>, Wenquan Feng, Shuchang Lyu, Guangliang Cheng, Xiaowei Huang,  Qi Zhao
 
@@ -56,7 +56,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal</div><img src='images/M2_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BACON: Bayesian Optimal Condensation Framework for Dataset Distillation](https://arxiv.org/pdf/2406.01112)
+**[BACON: Bayesian Optimal Condensation Framework for Dataset Distillation](https://arxiv.org/pdf/2406.01112)**
 
 <span style="font-weight: bold; color: #0000FF;">Zheng Zhou</span>, Hongbo Zhao, Guangliang Cheng, Xiangtai Li, Shuchang Lyu, Wenquan Feng, Qi Zhao
 
@@ -67,7 +67,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal</div><img src='images/M1_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World](https://arxiv.org/pdf/2312.17431)
+**[MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World](https://arxiv.org/pdf/2312.17431)**
 
 <span style="font-weight: bold; color: #0000FF;">Zheng Zhou</span>, Hongbo Zhao, Ju Liu, Qiaosheng Zhang, Liwei Geng, Shuchang Lyu, Wenquan Feng
 
@@ -78,7 +78,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2022</div><img src='images/C1_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adversarial Examples Are Closely Relevant to Neural Network Models - A Preliminary Experiment Explore](https://drive.google.com/file/d/13g5iiALfia-3GPvHTwQ00IOHaKrvrMF4/view)
+**[Adversarial Examples Are Closely Relevant to Neural Network Models - A Preliminary Experiment Explore](https://drive.google.com/file/d/13g5iiALfia-3GPvHTwQ00IOHaKrvrMF4/view)**
 
 <span style="font-weight: bold; color: #0000FF;">Zheng Zhou</span>, Ju Liu and Yanyang Han
 
