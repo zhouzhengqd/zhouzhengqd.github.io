@@ -34,13 +34,13 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 
 # 🔥 Recent Updates
-- **Dec 2024**: Invited as a reviewer for **ICML 2025**.
-- **Nov 2024**: Preprint paper on **BEARD**, a benchmark for evaluating adversarial robustness in dataset distillation: [Paper](https://arxiv.org/pdf/2411.09265), [Code](https://github.com/zhouzhengqd/BEARD), [Leaderboard](https://beard-leaderboard.github.io/).
-- **Nov 2024**: Honored to be selected as a **Top Reviewer** for **NeurIPS 2024**. [Official Announcement](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers).
-- **Oct 2024**: Invited as a reviewer for **AISTATS 2025**.
-- **Aug 2024**: Invited as a reviewer for **ICLR 2025**.
-- **Jun 2024**: Preprin paper on **BACON**, a new framework for **dataset distillation**: [Project Page](https://zhouzhengqd.github.io/bacon.page/), [Paper](https://arxiv.org/pdf/2406.01112), [Code](https://github.com/zhouzhengqd/BACON).
-- **May 2024**: Invited as a reviewer for **NeurIPS 2024**.
+- **Dec 2024**: Invited as a reviewer for <span style="font-weight: bold; color: #FF6347;">ICML 2025</span>.
+- **Nov 2024**: Preprint paper on <span style="font-weight: bold; color: #FF6347;">BEARD</span>, a benchmark for evaluating adversarial robustness in dataset distillation: **[Paper](https://arxiv.org/pdf/2411.09265)**, **[Code](https://github.com/zhouzhengqd/BEARD)**, **[Leaderboard](https://beard-leaderboard.github.io/)**.
+- **Nov 2024**: Honored to be selected as a <span style="font-weight: bold; color: #FF6347;">Top Reviewer</span> for <span style="font-weight: bold; color: #FF6347;">NeurIPS 2024</span>. **[Official Announcement](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)**.
+- **Oct 2024**: Invited as a reviewer for <span style="font-weight: bold; color: #FF6347;">AISTATS 2025</span>.
+- **Aug 2024**: Invited as a reviewer for <span style="font-weight: bold; color: #FF6347;">ICLR 2025</span>.
+- **Jun 2024**: Preprin paper on <span style="font-weight: bold; color: #FF6347;">BACON</span>, a new framework for dataset distillation: **[Project Page](https://zhouzhengqd.github.io/bacon.page/)**, **[Paper](https://arxiv.org/pdf/2406.01112)**, **[Code](https://github.com/zhouzhengqd/BACON)**.
+- **May 2024**: Invited as a reviewer for <span style="font-weight: bold; color: #FF6347;">NeurIPS 2024</span>.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference</div><img src='images/M3_fig.png' alt="sym" width="100%"></div></div>
@@ -48,7 +48,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 [BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/pdf/2411.09265)
 
-**Zheng Zhou**, Wenquan Feng, Shuchang Lyu, Guangliang Cheng, Xiaowei Huang,  Qi Zhao
+<span style="font-weight: bold; color: #0000FF;">Zheng Zhou</span>, Wenquan Feng, Shuchang Lyu, Guangliang Cheng, Xiaowei Huang,  Qi Zhao
 
 [**Project Page**](https://beard-leaderboard.github.io/) | [**Code**](https://github.com/zhouzhengqd/BEARD) | [**Paper**](https://arxiv.org/pdf/2411.09265)<strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
@@ -58,7 +58,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 [BACON: Bayesian Optimal Condensation Framework for Dataset Distillation](https://arxiv.org/pdf/2406.01112)
 
-**Zheng Zhou**, Hongbo Zhao, Guangliang Cheng, Xiangtai Li, Shuchang Lyu, Wenquan Feng, Qi Zhao
+<span style="font-weight: bold; color: #0000FF;">Zheng Zhou</span>, Hongbo Zhao, Guangliang Cheng, Xiangtai Li, Shuchang Lyu, Wenquan Feng, Qi Zhao
 
 [**Project Page**](https://zhouzhengqd.github.io/bacon.page/) | [**Code**](https://github.com/zhouzhengqd/BACON) | [**Paper**](https://arxiv.org/pdf/2406.01112)<strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
@@ -69,7 +69,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 [MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World](https://arxiv.org/pdf/2312.17431)
 
-**Zheng Zhou**, Hongbo Zhao, Ju Liu, Qiaosheng Zhang, Liwei Geng, Shuchang Lyu, Wenquan Feng
+<span style="font-weight: bold; color: #0000FF;">Zheng Zhou</span>, Hongbo Zhao, Ju Liu, Qiaosheng Zhang, Liwei Geng, Shuchang Lyu, Wenquan Feng
 
 [**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:9yKSN-GCB0IC) | [**Paper**](https://arxiv.org/pdf/2312.17431) <strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:9yKSN-GCB0IC'></span></strong>
 </div>
@@ -80,7 +80,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 [Adversarial Examples Are Closely Relevant to Neural Network Models - A Preliminary Experiment Explore](https://drive.google.com/file/d/13g5iiALfia-3GPvHTwQ00IOHaKrvrMF4/view)
 
-**Zheng Zhou**, Ju Liu and Yanyang Han
+<span style="font-weight: bold; color: #0000FF;">Zheng Zhou</span>, Ju Liu and Yanyang Han
 
 [**Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L5o4LTcAAAAJ&citation_for_view=L5o4LTcAAAAJ:u5HHmVD_uO8C) | [**Paper**](https://drive.google.com/file/d/13g5iiALfia-3GPvHTwQ00IOHaKrvrMF4/view)<strong><span class='show_paper_citations' data='L5o4LTcAAAAJ:u5HHmVD_uO8C'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
