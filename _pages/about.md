@@ -34,13 +34,13 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 
 # 🔥 Recent Updates
-- **Dec 2024**: Invited as a reviewer for <span style="font-weight: bold; color: #FF6347;">ICML 2025</span>.
-- **Nov 2024**: Preprint paper on <span style="font-weight: bold; color: #FF6347;">BEARD</span>, a benchmark for evaluating adversarial robustness in dataset distillation: **[Paper](https://arxiv.org/pdf/2411.09265)**, **[Code](https://github.com/zhouzhengqd/BEARD)**, **[Leaderboard](https://beard-leaderboard.github.io/)**.
-- **Nov 2024**: Honored to be selected as a <span style="font-weight: bold; color: #FF6347;">Top Reviewer</span> for <span style="font-weight: bold; color: #FF6347;">NeurIPS 2024</span>. **[Official Announcement](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)**.
-- **Oct 2024**: Invited as a reviewer for <span style="font-weight: bold; color: #FF6347;">AISTATS 2025</span>.
-- **Aug 2024**: Invited as a reviewer for <span style="font-weight: bold; color: #FF6347;">ICLR 2025</span>.
-- **Jun 2024**: Preprin paper on <span style="font-weight: bold; color: #FF6347;">BACON</span>, a new framework for dataset distillation: **[Project Page](https://zhouzhengqd.github.io/bacon.page/)**, **[Paper](https://arxiv.org/pdf/2406.01112)**, **[Code](https://github.com/zhouzhengqd/BACON)**.
-- **May 2024**: Invited as a reviewer for <span style="font-weight: bold; color: #FF6347;">NeurIPS 2024</span>.
+- **Dec 2024**: Invited as a reviewer for **ICML 2025**.
+- **Nov 2024**: Preprint paper on **BEARD**, a benchmark for evaluating adversarial robustness in dataset distillation: **[Paper](https://arxiv.org/pdf/2411.09265)**, **[Code](https://github.com/zhouzhengqd/BEARD)**, **[Leaderboard](https://beard-leaderboard.github.io/)**.
+- **Nov 2024**: Honored to be selected as a **Top Reviewer** for **NeurIPS 2024**. **[Official Announcement](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)**.
+- **Oct 2024**: Invited as a reviewer for **AISTATS 2025**.
+- **Aug 2024**: Invited as a reviewer for **ICLR 2025**.
+- **Jun 2024**: Preprin paper on **BACON**, a new framework for dataset distillation: **[Project Page](https://zhouzhengqd.github.io/bacon.page/)**, **[Paper](https://arxiv.org/pdf/2406.01112)**, **[Code](https://github.com/zhouzhengqd/BACON)**.
+- **May 2024**: Invited as a reviewer for **NeurIPS 2024**.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference</div><img src='images/M3_fig.png' alt="sym" width="100%"></div></div>
