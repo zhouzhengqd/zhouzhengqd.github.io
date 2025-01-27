@@ -5,7 +5,7 @@ Zheng Zhou's Personal Homepage
 <p align="center">
   <strong>
     <a href="https://zhouzhengqd.github.io/">Personal Homepage</a> | 
-    <a href="https://zhouzhengqd.github.io/">Curriculum Vitae (CV)</a> | 
+    <a href="https://zhouzhengqd.github.io/files/cv_Dyaln.pdf">Curriculum Vitae (CV)</a> | 
     <a href="https://github.com/zhouzhengqd">GitHub</a>
   </strong>
 </p>
