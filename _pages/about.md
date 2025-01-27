@@ -34,6 +34,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 
 # 🔥 Recent Updates
+- **Jan 2025**: Invited as a reviewer for **TMLR 2025**.
 - **Dec 2024**: Invited as a reviewer for **ICML 2025**.
 - **Nov 2024**: Preprint paper on **BEARD**, a benchmark for evaluating adversarial robustness in dataset distillation: **[Paper](https://arxiv.org/pdf/2411.09265)**, **[Code](https://github.com/zhouzhengqd/BEARD)**, **[Leaderboard](https://beard-leaderboard.github.io/)**.
 - **Nov 2024**: Honored to be selected as a **Top Reviewer** for **NeurIPS 2024**. **[Official Announcement](https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers)**.
@@ -100,10 +101,13 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 # 🌟 Academic Service
 ## Peer Review
 I contribute to the academic community by reviewing papers for various prestigious journals and conferences, including:
-- **NeurIPS 2024**
+### Conference Reviewer
+- **NeurIPS 2024** (<span style="font-weight: bold; color:rgba(255, 0, 0, 0.8);">Top Reviewer</span>)
 - **ICLR 2025**
 - **AISTATS 2025**
 - **ICML 2025**
+### Journal Reviewer
+- **Transactions on Machine Learning Research (TMLR)**
 
 # 💻 Work Experience
 - *2018.10 - 2023.06*, Embeded Software Engineer, [Haier Group Corporation](https://www.haier.com/global/), Open Innovation Platform & GE Appliance Development Devision, China.
