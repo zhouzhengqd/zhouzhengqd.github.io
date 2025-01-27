@@ -101,12 +101,16 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 # 🌟 Academic Service
 ## Peer Review
 I contribute to the academic community by reviewing papers for various prestigious journals and conferences, including:
+
 ### Conference Reviewer
+
 - **NeurIPS 2024** (<span style="font-weight: bold; color:rgba(255, 0, 0, 0.8);">Top Reviewer</span>)
 - **ICLR 2025**
 - **AISTATS 2025**
 - **ICML 2025**
+  
 ### Journal Reviewer
+
 - **Transactions on Machine Learning Research (TMLR)**
 
 # 💻 Work Experience
