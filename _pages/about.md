@@ -34,7 +34,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 
 
 # 🔥 Recent Updates
-- **Mar. 2025**: <span style="font-weight: bold; color:rgb(0, 51, 255);">BEARD</span> was accepted to <span style="font-weight: bold; color:rgb(255, 0, 0);">CVPR 2025</span>. Access the **[Project Page](https://beard-leaderboard.github.io/)**, **[Code](https://github.com/zhouzhengqd/BEARD)**, and **[Paper](https://arxiv.org/pdf/2411.09265)**.
+- **Mar. 2025**: The <span style="font-weight: bold; color:rgb(0, 51, 255);">BEARD</span> black-box library was updated. Access the **[Project Page](https://beard-leaderboard.github.io/)**, **[Code](https://github.com/zhouzhengqd/BEARD)**, and **[Paper](https://arxiv.org/pdf/2411.09265)**.
 - **Jan. 2025**: Invited as a reviewer for **TMLR 2025**.
 - **Dec. 2024**: Invited as a reviewer for **ICML 2025**.
 - **Nov. 2024**: Preprint paper on **BEARD**, a benchmark for evaluating adversarial robustness in dataset distillation: **[Paper](https://arxiv.org/pdf/2411.09265)**, **[Code](https://github.com/zhouzhengqd/BEARD)**, **[Leaderboard](https://beard-leaderboard.github.io/)**.
@@ -45,7 +45,7 @@ I have published two papers with total <a href='https://scholar.google.com/citat
 - **May. 2024**: Invited as a reviewer for **NeurIPS 2024**.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/M3_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal</div><img src='images/M3_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation](https://arxiv.org/pdf/2411.09265)**
