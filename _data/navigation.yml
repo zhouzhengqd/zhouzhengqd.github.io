@@ -1,25 +1,9 @@
-# main links links
-main:
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  - title: "Academic Service"
-    url: "/#-academic-service"
-
-  - title: "Work Experience"
-    url: "/#-work-experience"
+pages:
+# NOTE: `name` field must match the `navbar_title` field in the page's front matter to ensure the correct page is highlighted in the navbar.
+#       For example, the `navbar_title` field in `showcase.html` is "Showcase" and the `name` field here should also be "Showcase"
+- name: Home
+  url: /
+- name: Publications
+  url: /publications
+- name: Showcase
+  url: /showcase

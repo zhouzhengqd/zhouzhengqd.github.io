@@ -1,0 +1,59 @@
+<nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top mb-5 shadow-sm">
+    <div class="container">
+        <a class="navbar-brand"><strong><span id="navbar-name"></span></strong></a>
+        <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fas fa-map"></i> Menu
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                {% for item in site.data.navigation.pages %}
+                <li class="nav-item {% if item.name == page.navbar_title %}active{% endif %}">
+                    <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const text = "{{ site.data.profile.navbar_name }}"; // 从 profile.yml 中动态获取名字
+        const navbarNameElement = document.getElementById("navbar-name");
+        let index = 0;
+
+        function typeEffect() {
+            if (index < text.length) {
+                navbarNameElement.textContent += text.charAt(index);
+                index++;
+                setTimeout(typeEffect, 150); // 控制打字速度
+            } else {
+                // 添加光标闪烁效果
+                navbarNameElement.style.borderRight = "2px solid #000080"; // 深蓝色光标
+                navbarNameElement.style.animation = "blink 0.5s step-end infinite";
+            }
+        }
+
+        navbarNameElement.textContent = "➜ "; // macOS Terminal 风格符号
+        typeEffect();
+    });
+</script>
+
+<style>
+    #navbar-name {
+        font-family: monospace; /* 使用等宽字体 */
+        color: #000080; /* 深蓝色字体 */
+        border-right: 2px solid #000080; /* 光标效果 */
+        animation: blink 0.5s step-end infinite; /* 光标闪烁动画 */
+    }
+
+    @keyframes blink {
+        from, to {
+            border-color: transparent;
+        }
+        50% {
+            border-color: #000080; /* 深蓝色光标闪烁 */
+        }
+    }
+</style>

@@ -1,0 +1,73 @@
+primary_name: "Zheng Zhou"
+secondary_name: "周正"
+navbar_name: "ZhengZhou@Homepage"
+
+positions:
+- logo: /assets/images/badges/BUAA.png  # Logo is optional
+  name: <span>Ph.D. Candidate @ <span class="gradient-text-buaa">BUAA</span></span>
+- logo: /assets/images/badges/HAIER.png  # Logo is optional
+  name: <span>Former Embedded Software Engineer @ <span class="gradient-text-haier">Haier</span></span>
+
+
+email: "zhengzhou@buaa.edu.cn"
+cv_link: ./assets/doc/cv_Dylan.pdf
+gscholar: L5o4LTcAAAAJ&hl=en&oi=sra  # This is an example, replace it with your own Google Scholar ID
+github: zhouzhengqd
+twitter: zhouzhengqd  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+linkedin: zheng-zhou-81b829250
+# orcid: 0000-0002-1572-6854
+researchgate: Zheng-Zhou-94
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+      I am a Ph.D. student at <a href="https://www.buaa.edu.cn/" target="_blank">Beihang University</a>. From 2018 to 2023, I worked as an Embedded Software Engineer at <a href="https://www.haier.com/" target="_blank">Haier Group</a> while completing a Master's degree at <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a>, supervised by <a href="https://faculty.sdu.edu.cn/liuju/zh_CN/index.html" target="_blank">Prof. Ju Liu</a>. I previously studied at <a href="https://www.sdu.edu.cn/" target="_blank">TU Ilmenau</a> in Germany and hold a Bachelor's degree from <a href="https://www.qust.edu.cn/" target="_blank">Qingdao University of Science and Technology</a>.
+
+  </p>
+  <p>
+  My research focuses on enhancing the reliability and efficiency of machine learning, with particular emphasis on enhancing model robustness against adversarial examples and improving training efficiency through techniques such as dataset distillation.
+  </p>
+
+
+  <p><strong><span style="color: red;">I am currently seeking internship opportunities and research collaborations.</span></strong> Please feel free to contact me via email.</p>
+
+
+portrait_url: /assets/images/photos/ZhengZhou.png
+portrait_caption: >-
+  Me.
+
+education:
+- name: Beihang University
+  logo: /assets/images/badges/BUAA.png
+  position: >- 
+    School of Electronic and Information Engineering <br/>
+    Ph.D. Candidate in Electronic Engineering
+  date: Sep. 2023 - present
+- name: Shandong University
+  logo: /assets/images/badges/SDU.png
+  position: M.Eng. in Electronic Engineering
+  date: Sep. 2020 - Jun. 2023
+- name: TU Ilmenau
+  logo: /assets/images/badges/TUI.png
+  position: Visiting Student in Electronic Engineering
+  date: Oct. 2016 - Oct. 2018
+- name: Qingdao University of Science and Technology
+  logo: /assets/images/badges/QUST.png
+  position: B.Eng. in Mechanical Engineering and Automation
+  date: Sep. 2012 - Jun. 2016
+
+experience:
+- name: Haier Group
+  logo: /assets/images/badges/HAIER.png
+  position: Embedded Software Engineer
+  date: Oct. 2018 - Jun. 2023
+
+awards:
+- name: Top Reviewer at NeruIPS 2024
+  date: Sep. 2023
+- name: Silver Award at ASCEND Competition for Re-ID
+  date: Oct. 2022
+- name: Oral Presentation at International Conference on Swarm Intelligence (ICSI 2022)
+  date: Sep. 2022
