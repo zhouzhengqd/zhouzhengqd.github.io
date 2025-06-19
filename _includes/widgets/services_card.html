@@ -33,7 +33,7 @@
             {% for item in talks %}
             <div class="mb-1 d-flex">
                 <div>{{ item.title }}</div>
-                <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%Y" }}</i></div>
+                <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%B %Y" }}</i></div>
             </div>
             {% endfor %}
         </div>
