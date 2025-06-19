@@ -72,8 +72,3 @@ awards:
 - name: Oral Presentation at International Conference on Swarm Intelligence (ICSI 2022)
   date: Sep. 2022
 
-service: 
-- name: Reviewer for Conference
-  date: NeurIPS 2024, 2025; ICLR 2025; ICML 2025; AISTATS 2025
-- name: Reviewer for Journal
-  date: Transactions on Machine Learning Research (TMLR)
