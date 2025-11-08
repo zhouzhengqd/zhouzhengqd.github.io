@@ -41,7 +41,13 @@
                             {{ site.data.profile.short_bio }}
                         </div>
                         {% if site.data.profile.cv_link %}
-                            <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
+                            <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a>
+                        {% endif %}
+                        {% if site.data.profile.cv_link_cn %}
+                            {% if site.data.profile.cv_link %}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;{% endif %}<a target="_blank" href="{{ site.data.profile.cv_link_cn | relative_url }}"><i class="fas fa-file-alt"></i> 个人简历</a>
+                        {% endif %}
+                        {% if site.data.profile.cv_link or site.data.profile.cv_link_cn %}
+                            <br/>
                         {% endif %}
                     </div>
         
